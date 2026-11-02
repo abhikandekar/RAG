@@ -1,0 +1,25 @@
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+
+# Hugging Face LLM and Embeddings
+transformers
+torch
+accelerate
+sentence-transformers
+huggingface-hub
+sentencepiece
+
+# Vector Database
+chromadb
+
+# Document Loading
+pypdf
+
+# Utilities
+numpy
+tiktoken
